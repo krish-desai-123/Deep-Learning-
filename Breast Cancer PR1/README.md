@@ -285,10 +285,10 @@ Breast Cancer PR1/
 ---
  
 ## 🎥 Video Walkthrough
-
-https://drive.google.com/file/d/1ml3QgqS2eFIlBEnBd3QMg27oatHWgq9D/view?usp=sharing
  
-📺 **[Watch the full walkthrough here](#)**
+[![Watch the video](https://img.youtube.com/vi/lgZHBaTYH9I/maxresdefault.jpg)](https://youtu.be/lgZHBaTYH9I)
+ 
+📺 **[▶ Watch the full walkthrough on YouTube](https://youtu.be/lgZHBaTYH9I)**
  
 A face + screen recording covering all 7 concepts: scaling, SLP limitations, activation
 functions, Early Stopping internals, the Dropout mechanism, L1 vs. L2, and the clinical
