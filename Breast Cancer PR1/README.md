@@ -282,7 +282,19 @@ Breast Cancer PR1/
     ├── regularization_comparison.png
     └── test_accuracy_barchart.png
 ```
-
+---
+ 
+## 🎥 Video Walkthrough
+ 
+[![Watch the video](https://img.youtube.com/vi/lgZHBaTYH9I/maxresdefault.jpg)](https://youtu.be/lgZHBaTYH9I)
+ 
+📺 **[▶ Watch the full walkthrough on YouTube](https://youtu.be/lgZHBaTYH9I)**
+ 
+A face + screen recording covering all 7 concepts: scaling, SLP limitations, activation
+functions, Early Stopping internals, the Dropout mechanism, L1 vs. L2, and the clinical
+precision/recall trade-off.
+ 
+---
 
 ## 🙋 Author
 
