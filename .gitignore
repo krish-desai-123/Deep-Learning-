@@ -47,5 +47,6 @@ Lab_Work_1_2/.env
 dl-tf/
 ip-cv/
 Image Processing/Assets/CelebrityFacesDataset/
+Image Processing/Assets/face_recognizer.yml
 
 temp.ipynb
