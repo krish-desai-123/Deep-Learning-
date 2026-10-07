@@ -1,0 +1,20 @@
+0 Airplane
+1 Ambulance
+2 Bicycle
+3 Boat
+4 Bus
+5 Car
+6 Fire Truck
+7 Helicopter
+8 Hovercraft
+9 Jet Ski
+10 Kayak
+11 Motorcycle
+12 Rickshaw
+13 Scooter
+14 Segway
+15 Skateboard
+16 Tractor
+17 Truck
+18 Unicycle
+19 Van
