@@ -327,7 +327,7 @@ Exam/
 
 ## 🎥 Video Walkthrough
 
-> 🎬 **Video placeholder** — walkthrough link to be added here.
+> 🎬 **https://www.loom.com/share/6c37170dc2274e03aeef07652e15fa45** 
 
 Will cover: why scaling matters for the Wine dataset, the Haar-cascade face-detection results
 across all 5 images, why the CNN beats the ANN on MNIST with fewer parameters, and how the GRU
