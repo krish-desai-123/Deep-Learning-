@@ -1,0 +1,6 @@
+# the notebook downloads these on first run
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+*.mp4
+*.mov
