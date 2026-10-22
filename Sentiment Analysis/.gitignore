@@ -1,0 +1,4 @@
+# dataset is downloaded from Kaggle (see README), do not commit it
+IMDB Dataset.csv
+.ipynb_checkpoints/
+__pycache__/
