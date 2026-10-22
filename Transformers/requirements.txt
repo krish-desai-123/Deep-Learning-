@@ -1,0 +1,10 @@
+transformers>=4.40
+torch>=2.2
+datasets>=2.19
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn
+sentencepiece
+jupyter
